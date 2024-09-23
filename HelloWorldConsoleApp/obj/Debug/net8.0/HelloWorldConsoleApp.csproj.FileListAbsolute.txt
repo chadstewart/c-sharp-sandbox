@@ -1,0 +1,14 @@
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/bin/Debug/net8.0/HelloWorldConsoleApp
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/bin/Debug/net8.0/HelloWorldConsoleApp.deps.json
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/bin/Debug/net8.0/HelloWorldConsoleApp.runtimeconfig.json
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/bin/Debug/net8.0/HelloWorldConsoleApp.dll
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/bin/Debug/net8.0/HelloWorldConsoleApp.pdb
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/obj/Debug/net8.0/HelloWorldConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/obj/Debug/net8.0/HelloWorldConsoleApp.AssemblyInfoInputs.cache
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/obj/Debug/net8.0/HelloWorldConsoleApp.AssemblyInfo.cs
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/obj/Debug/net8.0/HelloWorldConsoleApp.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/obj/Debug/net8.0/HelloWorldConsoleApp.dll
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/obj/Debug/net8.0/refint/HelloWorldConsoleApp.dll
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/obj/Debug/net8.0/HelloWorldConsoleApp.pdb
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/obj/Debug/net8.0/HelloWorldConsoleApp.genruntimeconfig.cache
+/workspaces/c-sharp-sandbox/HelloWorldConsoleApp/obj/Debug/net8.0/ref/HelloWorldConsoleApp.dll
